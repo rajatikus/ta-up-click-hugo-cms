@@ -1,9 +1,9 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+title: "Just in: small batch of Jamaican Blue Mountain in store next week"
+date: 2023-11-29T07:45:24.573Z
+description: We’re proud to announce that we’ll be offering a small batch of
+  Jamaica Blue Mountain coffee beans in our store next week.
+image: img/about-reinvest-profits.jpg
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
@@ -13,6 +13,8 @@ Blue Mountain Peak is the highest mountain in Jamaica and one of the highest pea
 ## A little history
 
 The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+
+
 
 >Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
